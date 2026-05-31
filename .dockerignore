@@ -1,0 +1,6 @@
+.git
+.github
+.gocache
+*.test
+Dockerfile
+README.md
